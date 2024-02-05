@@ -2,7 +2,7 @@
 # print("this is a debug message")
 
 """ As given in the problem the algorithmic complexity of this problem cannot be O(M * N) because
-    in the manner of the comparisons you need to do conclude the Strings are similar. Because we
+    in the manner of the comparisons you need to do, to conclude the Strings are similar. Because we
     want to decide that "HYJ&*!" and "j!*Hy&" are similar a straight O(N) linear comparison would not 
     work so the best case is O( M * N^2) """ 
 
